@@ -39,6 +39,7 @@ public class ArrayExamples {
     }
     return (sum - lowest) / (arr.length - 1);
   }
+  
 
 
 }
